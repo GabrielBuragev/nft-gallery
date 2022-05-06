@@ -29,8 +29,9 @@ const baseLineOptions = {
   tension: 0.3,
   pointBackgroundColor: 'white',
   pointBorderColor: 'blue',
-  pointRadius: 4,
-  pointHoverRadius: 6,
+  pointBorderWidth: 1,
+  // pointRadius: 3,
+  pointHoverRadius: 5,
 }
 
 import {
